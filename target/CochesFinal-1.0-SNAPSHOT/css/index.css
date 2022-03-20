@@ -1,0 +1,29 @@
+label{
+    color: white;
+    text-shadow: 1px 1px #fff;
+}
+
+form{
+    background-image: url("../iconos/formula1.jpg");
+    background-color: #cccccc;
+    height: 300px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+
+table{
+   position:relative;
+   margin:auto;
+   width:100%;
+}
+
+abs-center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+
+
